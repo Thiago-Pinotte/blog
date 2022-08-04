@@ -1,0 +1,41 @@
+.viagem_mainDiv{
+    border: 1px solid blue;
+}
+.viagem_mainDiv img{
+    width: 100%;
+}
+.viagem_mainDiv h5, .viagem_mainDiv p{
+    margin: 20px;
+}
+
+.filmesHead i{
+    float: right;
+}
+.filmesText span{
+    color: yellow;
+}
+.filmesHead{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+#livros{
+    margin-bottom: 20px;
+}
+#l1{
+    height: 60%;
+    width: 70%;
+}
+
+
+
+
+
+
+
+
+#contact iframe
+{
+    width: 50%;
+}
